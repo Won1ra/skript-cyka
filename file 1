@@ -18,7 +18,7 @@ Number.prototype.between = function(a, b) {
   return this > min && this < max;
 };
 var range = 25;
-window.baseTepmlateUrl = 'https://github.com/Won1ra/skript-cyka/blob/master/file%201';
+window.baseTepmlateUrl = 'https://github.com/Won1ra/skript-cyka/blob/master/';
 
 window.addEventListener('load', function () {
     //Regular Expression to get coordinates out of URL
